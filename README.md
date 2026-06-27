@@ -134,7 +134,7 @@ Training Parameters:
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <git clone https://github.com/satakshisingh1610/ottermap-open-vision-challenge-Satakshi-Singh.git>
 cd Ottermap-Challenge
 ```
 
