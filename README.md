@@ -177,7 +177,15 @@ outputs/
     prediction.png
     overlay.png
 ```
+## 📷 Sample Results
 
+### Prediction Mask
+
+![Prediction Mask](outputs/prediction.png)
+
+### Overlay Visualization
+
+![Overlay](outputs/overlay.png)
 ---
 
 # 🌍 Generate GIS Output
