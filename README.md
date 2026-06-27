@@ -214,16 +214,7 @@ The solution demonstrates an end-to-end semantic segmentation workflow suitable 
 - Generalization performance may vary across different aerial imagery providers.
 - Current implementation focuses on Turf / Grass segmentation.
 
----
 
-# 🚀 Future Improvements
-
-- Multi-class segmentation for all available feature classes.
-- Stronger data augmentation.
-- Larger and more diverse training dataset.
-- Hyperparameter tuning.
-- Deployment as a REST API.
-- ONNX model export for faster inference.
 
 ---
 
